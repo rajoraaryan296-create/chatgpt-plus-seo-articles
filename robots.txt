@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rajoraaryan296-create.github.io/chatgpt-plus-seo-articles/sitemap.xml
